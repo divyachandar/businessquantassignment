@@ -1,0 +1,6 @@
+GET http://localhost:3000/AAPL
+
+GET http://localhost:3000/AAPLREVENUEGP
+
+
+GET http://localhost:3000/periodfiveyears
